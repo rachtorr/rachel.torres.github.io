@@ -15,11 +15,9 @@ Earth Systems Science, TA (ESM203) Bren Master's of Environmental Science and Ma
 Environmental Modeling, TA (EDS230) Bren Master's of Environmental Data Science, UC Santa Barbara
 Introduction to Environmental Science, Lead TA (ENVS2) Environmental Studies, UC Santa Barbara
 Our Dynamic Earth, Instructor (INT 93LS) Summer Research Academies, UC Santa Barbara
-To find out more, please see my {% include button.html text="CV" link="/cv/" %}
+To find out more, please see my CV. 
 
 Contact Me
-{% include icon.html id="email" title="email" %} rdt47@humboldt.edu
+email: rdt47@humboldt.edu
 
-{% include icon.html id="linkedin" title="linkedin" %}
 
-{% include icon.html id="github" title="github" %}
