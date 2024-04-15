@@ -4,6 +4,11 @@
 
 Hi! I am Rachel, recently became Dr. Torres. I am currently a postdoctoral researcher with a mutli-institutional network working to develop earth and environmental data science curriculum with an Indigenous methods lens. I work in INRSEP+ at Cal-Poly Humboldt. My collaborators are part of the Ecological Forecasting Initiative and the Geoscience Alliance.
 
+<embed 
+  type="text/html" src="pics/cph.html"
+  width=600, height=600>
+</embed>
+
 **Research**
 
 Received PhD from UC Santa Barbara's Bren School of Environmental Science and Management. I worked in the Tague Lab and used the eco-hydrologic model RHESSys.
