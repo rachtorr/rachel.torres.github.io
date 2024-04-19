@@ -26,6 +26,8 @@ here is the campus where I currently work:
 <embed type="text/html" src="pics/cph.html" width="600" height="600">
 
 arcata airport climatology: 
+
 ![average temperture](pics/temp_clim_plot.png)
 ![average monthly precipitation](pics/precip_clim_plot.png)
+
 source: NOAA Global Historical Climatology Network daily, station USW00024283
