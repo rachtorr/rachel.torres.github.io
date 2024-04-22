@@ -31,3 +31,5 @@ arcata airport climatology:
 ![average monthly precipitation](pics/precip_clim_plot.png)
 
 source: NOAA Global Historical Climatology Network daily, station USW00024283
+
+see code for making the above plots [here](RT_copy.html)
